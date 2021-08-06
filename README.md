@@ -1,6 +1,5 @@
 # Hyperskill Project
-This is my projects from Jetbrains' Hyperskill.
-
+This is my projects from Jetbrains' Hyperskill.\
 Link to my [profile](https://hyperskill.org/profile/9133990).
 
 
