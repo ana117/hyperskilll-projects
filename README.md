@@ -6,9 +6,10 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 ## Projects
 1. [Zookeeper](https://github.com/ana117/hyperskill-python-Zookeeper) [Python]
 2. [Loan Calculator](https://github.com/ana117/hyperskill-python-LoanCalculator) [Python]
-3. [Flashcard](https://github.com/ana117/hyperskill-frontend-Flashcard) [Frontend]
-4. [Case Converter](https://github.com/ana117/hyperskill-frontend-CaseConverter) [Frontend]
-5. [To-Do List](https://github.com/ana117/hyperskill-frontend-ToDoList) [Frontend] (WIP)
+3. [Rock-Paper-Scissors](https://github.com/ana117/hyperskill-python-RockPaperScissors) [Python]
+4. [Flashcard](https://github.com/ana117/hyperskill-frontend-Flashcard) [Frontend]
+5. [Case Converter](https://github.com/ana117/hyperskill-frontend-CaseConverter) [Frontend]
+6. [To-Do List](https://github.com/ana117/hyperskill-frontend-ToDoList) [Frontend] (WIP)
 
 ## Demos
 **Zookeeper**\
