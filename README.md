@@ -9,7 +9,7 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 3. [Rock-Paper-Scissors](https://github.com/ana117/hyperskill-python-RockPaperScissors) [Python]
 4. [Flashcard](https://github.com/ana117/hyperskill-frontend-Flashcard) [Frontend]
 5. [Case Converter](https://github.com/ana117/hyperskill-frontend-CaseConverter) [Frontend]
-6. [To-Do List](https://github.com/ana117/hyperskill-frontend-ToDoList) [Frontend] (WIP)
+6. [To-Do List](https://github.com/ana117/hyperskill-frontend-ToDoList) [Frontend]
 
 ## Demos
 **Zookeeper**\
@@ -25,4 +25,4 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 ![CaseConverter](https://user-images.githubusercontent.com/63540951/128593552-b053d8b1-c82b-40fb-8bf1-05600e33a698.gif)
 
 **To-Do List**\
-WIP
+![To-DoList](https://user-images.githubusercontent.com/63540951/129526185-4e1888e6-f873-4c27-a72f-93793c8ec20e.gif)
