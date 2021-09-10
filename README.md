@@ -12,7 +12,6 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 6. [To-Do List](https://github.com/ana117/hyperskill-frontend-ToDoList) [Frontend]
 7. [Web Scraper](https://github.com/ana117/hyperskill-nlp-WebScraper) [Natural Language Processing]
 8. [Readability Score](https://github.com/ana117/hyperskill-nlp-ReadabilityScore) [Natural Languange Processing] (WIP)
-9. [HyperNews Portal]() [Django] (WIP)
 
 ## Demos
 **Zookeeper**\
