@@ -11,7 +11,6 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 5. [Case Converter](https://github.com/ana117/hyperskill-frontend-CaseConverter) [Frontend]
 6. [To-Do List](https://github.com/ana117/hyperskill-frontend-ToDoList) [Frontend]
 7. [Web Scraper](https://github.com/ana117/hyperskill-nlp-WebScraper) [Natural Language Processing]
-8. [Readability Score](https://github.com/ana117/hyperskill-nlp-ReadabilityScore) [Natural Languange Processing] (WIP)
 
 ## Demos
 **Zookeeper**\
@@ -31,7 +30,3 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 
 **Web Scraper**\
 ![WebScraper](https://user-images.githubusercontent.com/63540951/130343724-4a44c592-9c99-45fa-8bdf-5316973ea63a.gif)
-
-**Readability Score**\
-
-**HyperNews Portal**\
