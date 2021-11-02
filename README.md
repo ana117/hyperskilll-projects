@@ -31,6 +31,3 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 
 **Web Scraper**\
 ![WebScraper](https://user-images.githubusercontent.com/63540951/130343724-4a44c592-9c99-45fa-8bdf-5316973ea63a.gif)
-
-**Honest Calculator**\
-[WIP]
