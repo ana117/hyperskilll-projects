@@ -12,7 +12,7 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 6. [To-Do List](https://github.com/ana117/hyperskill-frontend-ToDoList) [Frontend]
 7. [Web Scraper](https://github.com/ana117/hyperskill-nlp-WebScraper) [Natural Language Processing]
 8. [Honest Calculator](https://github.com/ana117/hyperskill-nlp-HonestCalculator) [Natural Language Processing]
-9. [Data Analysis for Hospitals](https://github.com/ana117/hyperskill-impl-HospitalDataAnalysis) [Introductory Machine Learning in Python]
+9. [Data Analysis for Hospitals](https://github.com/ana117/hyperskill-imlp-HospitalDataAnalysis) [Introductory Machine Learning in Python]
 
 ## Demos
 <details><summary>Zookeeper</summary>
