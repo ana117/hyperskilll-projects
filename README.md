@@ -38,3 +38,7 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 <details><summary>Web Scraper</summary>
   <img src="https://user-images.githubusercontent.com/63540951/130343724-4a44c592-9c99-45fa-8bdf-5316973ea63a.gif">
 </details>
+
+<details><summary>Data Analysis for Hospitals</summary>
+  <img src="https://user-images.githubusercontent.com/63540951/147676124-f7a41da4-9b23-4d01-97dd-c330cf3b9d4e.gif">
+</details>
