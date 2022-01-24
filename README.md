@@ -44,3 +44,7 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 <details><summary>Data Analysis for Hospitals</summary>
   <img src="https://user-images.githubusercontent.com/63540951/147676124-f7a41da4-9b23-4d01-97dd-c330cf3b9d4e.gif">
 </details>
+
+<details><summary>Simple Chatty Bot</summary>
+  <img src="https://user-images.githubusercontent.com/63540951/150744046-34d7463b-3a8a-4781-82c8-a74e34f62e48.gif">
+</details>
