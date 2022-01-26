@@ -15,7 +15,7 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 9. [Data Analysis for Hospitals](https://github.com/ana117/hyperskill-imlp-HospitalDataAnalysis) [Introductory Machine Learning in Python]
 10. [Classification of Handwritten Digits](https://github.com/ana117/hyperskill-imlp-ClassificationOfHandwrittenDigits) [Introductory Machine Learning in Python]
 11. [Simple Chatty Bot](https://github.com/ana117/hyperskill-go-SimpleChattyBot) [Go]
-12. [Obscene Vocabulary Checker](https://github.com/ana117/go-ObsceneVocabularyChecker) [Go]
+12. [Obscene Vocabulary Checker](https://github.com/ana117/hyperskill-go-ObsceneVocabularyChecker) [Go]
 
 ## Demos
 <details><summary>Zookeeper</summary>
