@@ -51,3 +51,7 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 <details><summary>Simple Chatty Bot</summary>
   <img src="https://user-images.githubusercontent.com/63540951/150744046-34d7463b-3a8a-4781-82c8-a74e34f62e48.gif">
 </details>
+
+<details><summary>Hypergram</summary>
+  <img src="https://user-images.githubusercontent.com/63540951/176397370-a092cd2d-6ba2-4d6e-b04e-1336eb7667b6.gif">
+</details>
