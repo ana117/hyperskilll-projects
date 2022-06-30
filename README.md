@@ -1,4 +1,4 @@
-# Hyperskill Project
+# Hyperskill Projects
 This is my projects from Jetbrains' Hyperskill.\
 Link to my [profile](https://hyperskill.org/profile/9133990).
 
@@ -18,6 +18,7 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 12. [Obscene Vocabulary Checker](https://github.com/ana117/hyperskill-go-ObsceneVocabularyChecker) [Go]
 13. [Minesweeper](https://github.com/ana117/hyperskill-frontend-Minesweeper) [Frontend]
 14. [Hypergram](https://github.com/ana117/hyperskill-frontend-Hypergram) [Frontend]
+15. [Virtual Piano](https://github.com/ana117/hyperskill-frontend-VirtualPiano) [Frontend]
 
 ## Demos
 <details><summary>Zookeeper</summary>
