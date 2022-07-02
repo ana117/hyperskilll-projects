@@ -56,3 +56,7 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 <details><summary>Hypergram</summary>
   <img src="https://user-images.githubusercontent.com/63540951/176397370-a092cd2d-6ba2-4d6e-b04e-1336eb7667b6.gif">
 </details>
+
+<details><summary>Virtual Piano (with sound)</summary>
+  <video src="https://user-images.githubusercontent.com/63540951/176994713-adcb2dbc-d2e1-4bc6-8b18-6f6b51882932.mp4">
+</details>
