@@ -20,6 +20,7 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 14. [Hypergram](https://github.com/ana117/hyperskill-frontend-Hypergram) [Frontend]
 15. [Virtual Piano](https://github.com/ana117/hyperskill-frontend-VirtualPiano) [Frontend]
 16. [Portfolio](https://github.com/ana117/hyperskill-frontend-Portfolio) [Frontend]
+17. [Open Space](https://github.com/ana117/hyperskill-frontend-OpenSpace) [Frontend]
 
 ## Demos
 <details><summary>Zookeeper</summary>
