@@ -62,3 +62,7 @@ Link to my [profile](https://hyperskill.org/profile/9133990).
 <details><summary>Virtual Piano (with sound)</summary>
   <video src="https://user-images.githubusercontent.com/63540951/176994713-adcb2dbc-d2e1-4bc6-8b18-6f6b51882932.mp4">
 </details>
+
+<details><summary>Open Space</summary>
+  <video src="https://user-images.githubusercontent.com/63540951/184498264-04b7dbcd-22e0-4c1a-8e3f-b322dd2c57fe.gif">
+</details>
